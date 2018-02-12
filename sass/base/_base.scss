@@ -19,7 +19,11 @@ body {
 * {
     outline: none !important;
 }
-
+.form-control {
+    font-size: 18px;
+    font-weight: 600;
+    color: #312D3B;
+}
 a {
     &:hover {
         text-decoration: none;
